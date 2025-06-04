@@ -2,9 +2,11 @@
 A simple and intuitive expense tracker app designed to help both students and working professionals manage their budgets and daily spending efficiently.
 
 Description:
+
 I created this Expense Tracker to help me manage my expenses as a college freshman since manually tracking everything in Excel was tedious and time-consuming. This is my second personal finance project and it’s still a work in progress. Through this app, I aim to improve my budgeting skills while gaining practical experience in web development using technologies like React, Node.js, MongoDB and Express. 
 
-Features
+Features:
+
 💸 Add, Edit, and Delete Expenses
 Easily add new expense entries, update details, or delete items to keep your records accurate.
 
